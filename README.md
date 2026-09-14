@@ -21,3 +21,7 @@ USAFacts. (2026, May 8). How have US fertility and birth rates changed over time
 
 U.S. Census Bureau. (2024). American Community Survey 1-year data. U.S. Department of Commerce.
 
+### AI Assistance Disclosure
+
+I used ChatGPT as a tool while working on this project. I used it to help troubleshoot errors in my Python code, understand how to retrieve and clean data from the U.S. Census API, and improve the organization of my visualizations. I reviewed the suggestions, tested the code myself, and edited the written responses to reflect my own understanding of the project and results.
+
